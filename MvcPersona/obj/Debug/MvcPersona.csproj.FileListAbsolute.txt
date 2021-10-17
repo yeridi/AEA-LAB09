@@ -1,0 +1,179 @@
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\MvcPersona.dll.config
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\MvcPersona.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\MvcPersona.pdb
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\csc.exe
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\csc.exe.config
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\csc.rsp
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\csi.exe
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\csi.exe.config
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\csi.rsp
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.Managed.Core.targets
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.AppContext.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Collections.Immutable.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Console.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Globalization.Calendars.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.IO.Compression.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.IO.FileSystem.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Net.Http.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Net.Sockets.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Reflection.Metadata.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.ValueTuple.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Xml.XmlDocument.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Xml.XPath.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\vbc.exe
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\vbc.exe.config
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\vbc.rsp
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\VBCSCompiler.exe
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\roslyn\VBCSCompiler.exe.config
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Antlr3.Runtime.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\EntityFramework.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\EntityFramework.SqlServer.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Microsoft.Web.Infrastructure.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Newtonsoft.Json.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Helpers.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Mvc.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Optimization.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Razor.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.WebPages.Deployment.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.WebPages.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.WebPages.Razor.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\WebGrease.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\EntityFramework.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\EntityFramework.SqlServer.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Helpers.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Mvc.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Optimization.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.Razor.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.WebPages.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.WebPages.Deployment.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\System.Web.WebPages.Razor.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Newtonsoft.Json.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Antlr3.Runtime.pdb
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.Helpers.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.Mvc.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.Optimization.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.Razor.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.WebPages.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\obj\Debug\MvcPersona.csproj.AssemblyReference.cache
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\obj\Debug\MvcPersona.csproj.CoreCompileInputs.cache
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\obj\Debug\MvcPersona.dll
+F:\tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzado\Semana9\MvcPersona\MvcPersona\MvcPersona\obj\Debug\MvcPersona.pdb
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\MvcPersona.dll.config
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\MvcPersona.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\MvcPersona.pdb
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\csc.exe
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\csc.exe.config
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\csc.rsp
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\csi.exe
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\csi.exe.config
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\csi.rsp
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.AppContext.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Console.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Net.Http.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\vbc.exe
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\vbc.exe.config
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\vbc.rsp
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Antlr3.Runtime.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\EntityFramework.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\EntityFramework.SqlServer.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Newtonsoft.Json.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Helpers.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Mvc.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Optimization.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Razor.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.WebPages.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\WebGrease.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\EntityFramework.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\EntityFramework.SqlServer.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Helpers.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Mvc.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Optimization.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.Razor.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.WebPages.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Newtonsoft.Json.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Antlr3.Runtime.pdb
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.Razor.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\obj\Debug\MvcPersona.csproj.AssemblyReference.cache
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\obj\Debug\MvcPersona.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\obj\Debug\MvcPersona.csproj.CopyComplete
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\obj\Debug\MvcPersona.dll
+C:\Users\Yeridi Crhis\Desktop\AEA---LAB09-main\MvcPersona\MvcPersona\obj\Debug\MvcPersona.pdb
